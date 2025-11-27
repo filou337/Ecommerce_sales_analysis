@@ -3,6 +3,7 @@
 Projet de **dashboard interactif sous Excel** permettant d’analyser les ventes d’une entreprise e-commerce : performance globale, rentabilité par catégorie, comportement client et dynamique géographique.
 
 > 🎯 Objectif : transformer un simple fichier Excel en **outil d’aide à la décision** clair, propre et directement présentable à un recruteur / manager.
+<img width="800" height="398" alt="image" src="https://github.com/user-attachments/assets/b29806c5-666f-4889-a37c-2534054a1f2e" />
 
 ---
 
